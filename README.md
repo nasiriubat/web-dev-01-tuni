@@ -1,7 +1,7 @@
 # This is a Web Development course offered my Tampere University.
 
+
 ## This course mainly focuses on :
----------------------------------
 
 1. Introduction: tools and practices
 2. HTTP, client-server, (REST)
@@ -15,7 +15,6 @@
 10. Part of course group work: Architecture (MVC), focus on quality
 
 ## The Course Outline is :
------------------------------
 
 1. Introduction: tools and practices
     1.1 Exercise round study materials: lecture video, FAQ, and more
