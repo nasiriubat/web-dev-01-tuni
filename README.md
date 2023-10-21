@@ -1,6 +1,6 @@
-## This is a Web Development course offered my Tampere University.
+# This is a Web Development course offered my Tampere University.
 
-#### This course mainly focuses on :
+## This course mainly focuses on :
 ---------------------------------
 
 1. Introduction: tools and practices
@@ -14,7 +14,7 @@
 9. Part of course group work: Data persistence in front- and backend
 10. Part of course group work: Architecture (MVC), focus on quality
 
-#### The Course Outline is :
+## The Course Outline is :
 -----------------------------
 
 1. Introduction: tools and practices
