@@ -19,7 +19,7 @@
 1. Introduction: tools and practices<br>
     1.1 Exercise round study materials: lecture video, FAQ, and more <br>
     1.2 Questions and anwers for exercise round 1 from an earlier course implementation <br>
-    1.3 Hello Gitlab  <br>
+    1.3 Hello Gitlab <br>
     1.4 Hello Git  <br>
     1.5 Exercises pulled from course-upstream <br>
     1.6 Hello Node  <br>
