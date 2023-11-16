@@ -1,6 +1,6 @@
 const { getCredentials } = require("../utils/requestUtils");
 
-// user-model
+// user model
 const User = require("../models/user");
 
 
